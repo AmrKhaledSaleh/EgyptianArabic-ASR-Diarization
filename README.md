@@ -4,8 +4,7 @@
 1. [📘 Introduction](#introduction)
 2. [🏗️ System Architecture](#system-architecture)
 3. [🚀 Getting Started](#getting-started)
-4. [📊 Results](#results)
-5. [🔁 Reproducibility](#reproducibility)
+4. [🔁 Reproducibility](#reproducibility)
 
 ## Introduction 📘
 
@@ -14,6 +13,8 @@ This project implements an Automatic Speech Recognition (ASR) and Speaker Diariz
 ## System Architecture 🏗️
 
 Our system utilizes four models for the diarization and ASR process:
+
+<img src="models/models.png" width="700" alt="models">
 
 1. **vad_multilingual_marblenet**: A Voice Activity Detection (VAD) model that identifies speech segments in audio. It's designed to work across multiple languages, making it suitable for Egyptian Arabic.
 
@@ -72,4 +73,4 @@ To reproduce our results:
 - Prepare your data and create the manifest file as shown in the "Prerequisites" section and the [inference.ipynb](./inference.ipynb) notebook.
 - Make sure your manifest file is in the inference folder
 - Run the inference script from our [inference.ipynb](./inference.ipynb) notebook.
-- Make sure to have fun trying our system 😁.
+- Make sure to have fun trying our system 😁❤️.
