@@ -1,1 +1,1 @@
-# Speaker_Diarization_Arabic
+# Egyptian_Speaker_Diarization
