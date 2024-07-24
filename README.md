@@ -21,7 +21,7 @@ Our system utilizes four models for the diarization and ASR process:
 
 3. **diar_msdd_telephonic**: A diarization model specifically tuned for telephonic conversations. It uses the embeddings from TitaNet to cluster and separate different speakers.
 
-4. **Conformer-CTC-Char_final**: Our primary ASR model based on the Conformer architecture. It combines the strengths of Transformers and Convolutional Neural Networks to achieve state-of-the-art accuracy in speech recognition.
+4. **Conformer-CTC-Char_final**: Our primary ASR model based on the Conformer architecture. It combines the strengths of Transformers and Convolutional Neural Networks to achieve state-of-the-art accuracy in speech recognition. To know more about our Conformer-CTC based ASR model, you can check our repository on GitHub: [Conformer-CTC_EGY_Arabic_Speech_Recognition](https://github.com/AmrKhaledSaleh/Conformer-CTC_EGY_Arabic_Speech_Recognition)
 
 ## Getting Started 🚀
 
