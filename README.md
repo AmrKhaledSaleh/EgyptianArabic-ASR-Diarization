@@ -14,7 +14,7 @@ This project implements an Automatic Speech Recognition (ASR) and Speaker Diariz
 
 Our system utilizes four models for the diarization and ASR process:
 
-<img src="models/models.png" width="900" alt="models">
+<img src="models/models.png" width="800" alt="models">
 
 1. **vad_multilingual_marblenet**: A Voice Activity Detection (VAD) model that identifies speech segments in audio. It's designed to work across multiple languages, making it suitable for Egyptian Arabic.
 
