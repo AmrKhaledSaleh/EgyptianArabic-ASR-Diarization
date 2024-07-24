@@ -1,1 +1,1 @@
-# Egyptian_Speaker_Diarization
+# EgyptianArabic-ASR-Diarization
