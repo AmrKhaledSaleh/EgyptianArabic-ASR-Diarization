@@ -62,7 +62,7 @@ create_wav_manifest(folder_path, output_json_path)
 
 ### Installation
 
-You can check and instal the dependencies from [requirements.txt](./requirements.txt)
+You can check and install the dependencies from [requirements.txt](./requirements.txt)
 
 ## Reproducibility 🔁
 
