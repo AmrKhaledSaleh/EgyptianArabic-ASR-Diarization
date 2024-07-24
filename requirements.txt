@@ -1,0 +1,9 @@
+Cython
+packaging
+nemo_toolkit['asr']
+librosa
+pandas
+zipfile
+omegaconf
+pytorch-lightning
+matplotlib
